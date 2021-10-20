@@ -1,0 +1,168 @@
+#
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
+#
+
+sidebar:
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
+
+  # Profile information
+  name: Fernando Viveros # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: escudo.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+
+  # Actualiza tus datos de contacto
+  email: fer_elsword@hotmail.com
+  phone: 3125944200
+  website: # No agregar http://
+  linkedin: www.linkedin.com/in/fernando-viveros
+  github: github.com/xFerchoVJ
+  gitlab:
+  bitbucket:
+  twitter: '@xFerchoVJ'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: French
+      level: Begginer
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Team Work and collaboration
+      link: # dejar en blanco
+
+    - item: Empathy
+      link: # dejar en blanco
+
+    - item: Open-mindedness and adaptability
+      link: #dejar en blanco
+
+    - item: Patience
+      link: #dejar en blanco
+
+    - item: Critical thinking, creativity, and problem-solving
+      link: #dejar en blanco
+
+    - item: Accountability, humility, and humbleness
+      link: #dejar en blanco
+
+    - item: Confidence
+      link: #dejar en blanco
+
+    - item: Management (people, time and project)
+      link: #dejar en blanco
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: | 
+   I'm a person who likes to investigate a lot and learn new things.
+   Whem i'm very passionate about something, i don't stop investigating
+   about it until i can master what has interested me-
+   I'm responsible, i have the ability to guide, to listen and improve.
+   I considered myself a kind, respectful person and with ease to be able
+   to communicate with people.
+   As hobbies I love listening to music and also playing music!
+   I'm a coffe lover and in my free time i love to learn more about
+   technologies that interest me!
+   I'm always looking to learn more and will never stop doing it.
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Computerstystems engineer.
+    university: Tecnologico Nacional de México campus Colima
+    time: 2019 Aug - current
+    details: |
+  - degree: Bachillerato 2 
+    university: Universidad de Colima
+    time: 2016 - 2019
+    details: |
+  # - degree: Internship (Master Thesis)
+  #   university: Tobii
+  #   time: 2014 - 2015
+  #   details: |
+  #     Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+
+  #       - Deep learning
+  #       - Hand Gesture
+
+  # - degree: Bachelor Degree
+  #   university: Politecnico di Torino (Torino, Italy)
+  #   time: 2009 - 2012
+  #   details: |
+  #     Master degree in Computer Engineering
+
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+  - role: Student
+    time: 2015 - 2015
+    company: Universidad de Colima
+    details: |
+      School project for the management of the database of
+      an exchange house using technologies for the frontend
+      such as HTML, CSS, JS and for the backend php.
+      
+  - role: Brigthcoder
+    time: 2021 May - 2021 Sep
+    company: MagmaLabs
+    details: |
+      As brightcoder I've learned about some good practices as well as different tools.
+      I've resolved some challenges to learn deeply ruby and after creating projects with Ruby on Rails
+      Some tasks that I've carried out are the following.
+      Implementing authentication and authorization, making unit tests 
+      and deploying web applications.
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+    - name: Java
+      level: 60%
+
+    - name: Html
+      level: 80%
+
+    - name: Css
+      level: 80%
+
+    - name: SASS
+      level: 80%
+
+    - name: Javascript
+      level: 60%
+
+    - name: React
+      level: 20%
+
+    - name: Sql
+      level: 40%
+
+    - name: Ruby
+      level: 40%
+
+    - name: Rails
+      level: 40%
+
+    - name: Git
+      level: 60%
+
+    - name: Linux
+      level: 40%
+# NO MODIFICAR
+footer: >
+  BrightCoders for a brighter future!
