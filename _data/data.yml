@@ -33,7 +33,7 @@ sidebar:
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: French
-      level: Begginer
+      level: Beginner
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
